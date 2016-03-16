@@ -42,6 +42,7 @@ import Style from './Style'
 import ColorPicker from './Color-picker'
 import AddressChinaData from './address/list.json'
 import Divider from './divider/'
+import Blur from './blur/'
 
 const vux = {
   Radio,
@@ -87,7 +88,8 @@ const vux = {
   Style,
   ColorPicker,
   AddressChinaData,
-  Divider
+  Divider,
+  Blur
 }
 
 module.exports = vux
